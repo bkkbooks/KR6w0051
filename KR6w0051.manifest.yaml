@@ -1,0 +1,420 @@
+canonical_identifier: bkk:krp/KR6w0051/v1
+canonical_location: https://kanripo.org/bkk/KR6w0051/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛國禪師語錄
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D51/D51n8948.xml
+    old_id: D51n8948
+  edition:
+    short: bkk
+editions:
+- short: 國圖
+  label: 國圖
+  source_xml_id: wit.orig
+- short: D
+assets:
+  parts:
+  - {seq: 1, filename: KR6w0051_001.yaml, hash: 'sha256:ab200784877b58206061f6519d1f02df2b4c4218958e857f71d2ee17be07d99b'}
+  - {seq: 2, filename: KR6w0051_002.yaml, hash: 'sha256:9ce2544c205446c0995d7f1d611ab0706c9b66cd670c107bac7f32ba3f8f342f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6w0051_001.markers.yaml, hash: 'sha256:4fe63ddaaa577673eb723f5f452b158048fd20e88558120c4764f9e384c3e193'}
+  - {seq: 2, role: markers, filename: assets/KR6w0051_002.markers.yaml, hash: 'sha256:1bc9d779b967922a922258097b22429645fb2ed5a7bfb12de81c7ec82c465ccd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6w0051_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 13698
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0051_D_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 雲巖語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-juan-start
+    span:
+    - body
+    - 0
+    - 14434
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 淨妙語錄一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-2
+    span:
+    - body
+    - 885
+    - 885
+  label: 淨智語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-3
+    span:
+    - body
+    - 2562
+    - 2562
+  label: 建長語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-4
+    span:
+    - body
+    - 5778
+    - 5778
+  label: 再住淨智語錄二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-5
+    span:
+    - body
+    - 8017
+    - 8017
+  label: 普󵘸
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-6
+    span:
+    - body
+    - 10400
+    - 10400
+  label: 法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-7
+    span:
+    - body
+    - 10402
+    - 10402
+  label: 示石侍者
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-8
+    span:
+    - body
+    - 10562
+    - 10562
+  label: 示元侍者
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-9
+    span:
+    - body
+    - 10734
+    - 10734
+  label: 示在侍者
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-10
+    span:
+    - body
+    - 10911
+    - 10911
+  label: 示寒河照源大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-11
+    span:
+    - body
+    - 11014
+    - 11014
+  label: 示湛然㞐士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-12
+    span:
+    - body
+    - 11267
+    - 11267
+  label: 示禪人
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-13
+    span:
+    - body
+    - 11495
+    - 11495
+  label: 示禪人
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-14
+    span:
+    - body
+    - 11596
+    - 11596
+  label: 示禪人
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-15
+    span:
+    - body
+    - 11831
+    - 11831
+  label: 示禪人
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-16
+    span:
+    - body
+    - 11978
+    - 11978
+  label: 示禪人
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-17
+    span:
+    - body
+    - 12097
+    - 12097
+  label: 示壽山講師
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-18
+    span:
+    - body
+    - 12166
+    - 12166
+  label: 頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-19
+    span:
+    - body
+    - 12168
+    - 12168
+  label: 即心即佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-20
+    span:
+    - body
+    - 12188
+    - 12188
+  label: 非心非佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-21
+    span:
+    - body
+    - 12220
+    - 12220
+  label: 馬祖陞堂百丈捲席
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-22
+    span:
+    - body
+    - 12247
+    - 12247
+  label: 𡸁絲千尺意在深潭離鈎三寸子何不道
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-23
+    span:
+    - body
+    - 12291
+    - 12291
+  label: 百丈耳聾黃蘗吐舌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-24
+    span:
+    - body
+    - 12327
+    - 12327
+  label: 明招謙禪師暖処商量
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-25
+    span:
+    - body
+    - 12362
+    - 12362
+  label: 佛祖󱶉
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-26
+    span:
+    - body
+    - 12364
+    - 12364
+  label: 釋迦
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-27
+    span:
+    - body
+    - 12386
+    - 12386
+  label: 觀音
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-28
+    span:
+    - body
+    - 12404
+    - 12404
+  label: 佛光
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-29
+    span:
+    - body
+    - 12436
+    - 12436
+  label: 自󱶉
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-30
+    span:
+    - body
+    - 12437
+    - 12437
+  label: 為石侍者
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-31
+    span:
+    - body
+    - 12474
+    - 12474
+  label: 為玉林居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-32
+    span:
+    - body
+    - 12560
+    - 12560
+  label: 坐化偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-33
+    span:
+    - body
+    - 12597
+    - 12597
+  label: 問答
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-34
+    span:
+    - body
+    - 12597
+    - 12597
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-35
+    span:
+    - body
+    - 12756
+    - 12756
+  label: 問答
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0051_D_002-mulu-36
+    span:
+    - body
+    - 13981
+    - 13981
+  label: 後跋
+  type: mulu
+  level: 1
+hash: sha256:ca1ca80284232fd4508dd06e25ead4a34991668e9fac08329d8f970afbb276d3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
